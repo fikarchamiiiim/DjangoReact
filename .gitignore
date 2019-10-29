@@ -1,0 +1,15 @@
+node_modules
+
+# Django
+*.log
+*.pyc
+*.pot
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+
+*.py[cod]
+*$py.class
+*.so
+
